@@ -33,7 +33,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		System.out.pr	intln("Hellow Git");
+		System.out.println("Hellow Git");
 		System.out.println("World's End Dancehall");
 		System.out.println("Hello Dance Wolrd");
 		System.out.println("Add java class file push");
